@@ -4,9 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ken+Warren!;" />
 </h1>
 
- <div align="center">
-     [<img src="https://spotifyapp-profile-8dcryhhd6-ken-warrens-projects.vercel.app" alt="Ken's Spotify Playing"  width="350" background_color=0d1117 border_color=ffffff](https://open.spotify.com/user/31gfdutr5y3esqn3x35x3q5agopm) />
- </div>
+&nbsp;<div align="center">
+  [![Spotify](https://spotifyapp-profile-ken-warrens-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31gfdutr5y3esqn3x35x3q5agopm)
+</div>
+
 
 <h3 align="center">A data enthusiast from Kenya </h3>
 
