@@ -16,7 +16,6 @@
  
  🔭 I’m currently working on **my portfolio**
  
- 🌱 I’m currently learning **Python, Machine Learning and MySql**
 
 💬 Ask me about **R, SPSS, STATA... or anything [here](https://github.com/ken-warren/ken-warren/issues)**
 
