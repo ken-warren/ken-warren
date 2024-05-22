@@ -5,10 +5,12 @@
 </h1>
 
 &nbsp;<div align="center">
-  [![Spotify](https://spotifyapp-profile-j7i368x61-ken-warrens-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31gfdutr5y3esqn3x35x3q5agopm)
-</div>
+## Spotify
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gfdutr5y3esqn3x35x3q5agopm&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gfdutr5y3esqn3x35x3q5agopm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+  </a>
 
-
+---
 <h3 align="center">A data enthusiast from Kenya </h3>
 
 <br/>
