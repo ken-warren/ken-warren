@@ -5,7 +5,7 @@
 </h1>
 
  <div align="center">
-     [<img src="https://spotify_app-profile-git-main-ken-warrens-projects.vercel.app/api/spotify" alt="Ken's Spotify Playing"  width="350" background_color=0d1117 border_color=ffffff />](https://open.spotify.com/user/31gfdutr5y3esqn3x35x3q5agopm)
+     [<img src="https://spotifyapp-profile-8dcryhhd6-ken-warrens-projects.vercel.app" alt="Ken's Spotify Playing"  width="350" background_color=0d1117 border_color=ffffff />](https://open.spotify.com/user/31gfdutr5y3esqn3x35x3q5agopm)
  </div>
 
 <h3 align="center">A data enthusiast from Kenya </h3>
