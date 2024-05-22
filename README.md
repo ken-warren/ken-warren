@@ -5,7 +5,7 @@
 </h1>
 
 ## Playlist
-[![Spotify](https://spotify-app-profile.vercel.app/api/spotify)](https://open.spotify.com/31gfdutr5y3esqn3x35x3q5agopm)
+[![Spotify](https://spotify-app-profile.vercel.app/api/spotify)](https://open.spotify.com/user/31gfdutr5y3esqn3x35x3q5agopm)
 
 <h3 align="center">A data enthusiast from Kenya </h3>
 
