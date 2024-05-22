@@ -64,8 +64,6 @@
 
 [![GitHub Streak](https://github-readme-streak-statss-bay.vercel.app?user=ken-warren&theme=dark&align=center&hide_border=true&border_radius=2.5)](https://git.io/streak-stats)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31gfdutr5y3esqn3x35x3q5agopm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31gfdutr5y3esqn3x35x3q5agopm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
-
 <br/><br/>
 
 <hr/>
