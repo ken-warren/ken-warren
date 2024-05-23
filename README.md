@@ -59,7 +59,6 @@
 [![GitHub Streak](https://github-readme-streak-statss-bay.vercel.app?user=ken-warren&theme=dark&align=center&hide_border=true&border_radius=2.5)](https://git.io/streak-stats)
 
 </div>
----
 
 &nbsp;<div align="center">
 ## Spotify
