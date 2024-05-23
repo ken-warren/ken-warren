@@ -4,13 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ken+Warren!;" />
 </h1>
 
-&nbsp;<div align="center">
-## Spotify
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gfdutr5y3esqn3x35x3q5agopm&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gfdutr5y3esqn3x35x3q5agopm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
-
----
 <h3 align="center">A data enthusiast from Kenya </h3>
 
 <br/>
@@ -66,6 +59,14 @@
 [![GitHub Streak](https://github-readme-streak-statss-bay.vercel.app?user=ken-warren&theme=dark&align=center&hide_border=true&border_radius=2.5)](https://git.io/streak-stats)
 
 </div>
+---
+
+&nbsp;<div align="center">
+## Spotify
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gfdutr5y3esqn3x35x3q5agopm&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gfdutr5y3esqn3x35x3q5agopm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+  </a>
+
 <br/><br/>
 
 <hr/>
