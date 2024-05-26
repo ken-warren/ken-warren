@@ -1,21 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ken-warren.ken-warren" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ken+Warren!;" />
 </h1>
 
-<h3 align="center">A data enthusiast from Kenya </h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **my portfolio**
- 
+## ⚒️Tech Skills
+- Programming Languages: R, Python, SQL
+- Tools: R studio, Jupyter notebook, STATA, SPSS, Power BI, Excel
+- Data Visualization: ggplot2, Matplotlib, Power BI
+- Statistical Analysis: Statistical modeling, Regression analysis,Times series analysis, hypothesis testing.
 
 💬 Ask me about **R, SPSS, STATA... or anything [here](https://github.com/ken-warren/ken-warren/issues)**
 
- </div>
  
 <div align="center"> 
   <a href="mailto:kennedykyalo168@gmail.com">
@@ -31,9 +27,9 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages ⚒️</h2>
+<h2 align="center">⚒️Languages</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=html,javascript,css,c,r" /><br>
 </div>
 
@@ -41,7 +37,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ken-warren/ken-warren/output/github-contribution-grid-snake.svg" />
   
@@ -50,7 +46,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats</h2>
 <br>
 <div align=center>
   <br/>
